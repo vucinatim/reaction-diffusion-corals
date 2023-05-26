@@ -2,7 +2,7 @@
 
 This repository contains the code for a university assignment for the Advanced Computer Graphics course. The goal is to implement a reaction-diffusion system to generate and render organic structures, such as corals and coral reefs.
 
-![Render of a coral-like structure](./images/blender_psychadelic_growth_1.png)
+![Render of a coral-like structure](./demo.gif)
 
 ## Contents
 1. Jupyter notebooks for exploring and testing 2D and 3D reaction-diffusion models.
