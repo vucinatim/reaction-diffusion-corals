@@ -14,7 +14,7 @@ This repository contains the code for a university assignment for the Advanced C
 
 1. Clone the repository.
 ```bash
-git clone https://github.com/<your-username>/reaction-diffusion.git
+git clone https://github.com/vucinatim/reaction-diffusion-corals.git
 cd reaction-diffusion
 ```
 
