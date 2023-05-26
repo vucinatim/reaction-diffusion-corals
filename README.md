@@ -1,6 +1,6 @@
 # Generating Organic Structures with the Reaction-Diffusion Equation
 
-This repository contains the code for a university assignment for the Advanced Computer Graphics course. The goal is to implement a reaction-diffusion system to generate and render organic structures, such as corals and coral reefs.
+This repository contains the code for a university assignment for the Advanced Computer Graphics course. The goal is to implement a reaction-diffusion system to generate and render organic structures.
 
 ![Render of a coral-like structure](./demo.gif)
 
